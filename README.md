@@ -1,3 +1,3 @@
 # new-repo 
 
-this is new repo practice
+this is new repo practice.
